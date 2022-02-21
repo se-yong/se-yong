@@ -14,8 +14,8 @@ I'm Seyong Park, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
   <br>
 
 <h3 align="center">•••</h3>
