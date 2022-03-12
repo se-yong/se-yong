@@ -20,6 +20,7 @@ I'm Seyong Park, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
   <br>
 
+<br>
 <h3 align="center">•••</h3>
 
 <br>
