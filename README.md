@@ -2,7 +2,10 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Seyong Park, a growing developer. 🌱 <br>
+I'm Seyong Park, a growing developer. 🌱
+
+  <br>
+  <br>
 
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
