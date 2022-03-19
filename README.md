@@ -43,7 +43,7 @@ I'm Seyong Park, a growing developer. 🌱
 
 <div align="center">
   
-![coldzero94's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldzero94&show_icons=true&theme=great-gatsby)
+![parkseyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-yong&show_icons=true&theme=great-gatsby)
 
 <br>
 
