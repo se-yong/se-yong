@@ -37,7 +37,14 @@ I'm Seyong Park, a growing developer. 🌱
 </p>
 
 <br>
-<br>
+<h3 align="center">
+ ⚡ GitHub Stats ⚡
+</h3>
+
+<div align="center">
+  
+![coldzero94's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldzero94&show_icons=true&theme=great-gatsby)
+
 <br>
 
 <p align="center">
