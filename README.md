@@ -28,7 +28,7 @@ I'm Seyong Park, a growing developer. 🌱
 <h3 align="center">•••</h3>
 
 <br>
-<br>
+
 
 <p align="center">
   <a href="https://velog.io/@sae0428"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sae0428"/></a>&nbsp
