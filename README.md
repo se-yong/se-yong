@@ -10,7 +10,7 @@ I'm Seyong Park, a growing developer. 🌱
 
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
-
+<br>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
