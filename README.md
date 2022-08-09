@@ -18,7 +18,7 @@ I'm Seyong Park, a growing developer. 🌱
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=Nestjs&logoColor=red" align="center"/>&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=Nestjs&logoColor=red"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
