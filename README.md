@@ -19,6 +19,7 @@ I'm Seyong Park, a growing developer. 🌱
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=Nestjs&logoColor=red"/>&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
