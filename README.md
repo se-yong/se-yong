@@ -35,7 +35,6 @@ I'm Seyong Park, a growing developer. 🌱
 <h3 align="center">•••</h3>
 
 <br>
-<br>
 
 
 <p align="center">
