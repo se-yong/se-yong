@@ -8,6 +8,7 @@ I'm Seyong Park, a growing developer. 🌱
 <br>
 <br>
 <br>
+<br>
 
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
